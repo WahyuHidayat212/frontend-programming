@@ -1,6 +1,6 @@
 const users = [
   {
-    name: "Aufa",
+    name: "Wahyu Hidayat",
     age: 22,
     major: "Frontend Engineer",
   },
