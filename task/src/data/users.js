@@ -1,6 +1,5 @@
-const users = [
-  {
-    name: "Wahyu Hidayat",
+const users = [{
+    name: "Aufa",
     age: 22,
     major: "Frontend Engineer",
   },
@@ -32,3 +31,4 @@ const users = [
  * Gunakan export default.
  */
 // CODE HERE
+export default users;
